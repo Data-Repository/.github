@@ -13,10 +13,13 @@
 
 
 Data Repository
+
+
 This is just a repository of data that I constantly find myself needing to settle arguments in bars :-) 
 Your mileage may vary, the accuracy may be suspect,  and it is absolutely not guaranteed to be useful, 
 don't use it to make decisions, any decisions you make based on this data are entirelty your fault and cannot be attributed to me or the data in any way whatsoever.
-Don't use this data. The data is owned by the sources - much of it is forked from other places on GH, It may have been massaged, reshaped or processed in ways that make it less useful - I try not to do that
+
+Don't use this data. The data is owned by the whoever made it public - much of it is forked from other places on GH, It may have been massaged, reshaped or processed in ways that make it less useful - I try not to do that
 (Ok, we have that out of the way)
 
 What is here:
